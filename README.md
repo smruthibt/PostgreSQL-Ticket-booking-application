@@ -1,2 +1,2 @@
 # PostgreSQL-Ticket-booking-application
-Namma Metro ticket booking application using PostgreSQL
+Namma Metro ticket booking application using PERN Stack
